@@ -13,10 +13,17 @@ theme: minima
 
 # Our officers!
 Zoya: https://www.facebook.com/groups/1343826033377099/user/100083632782543
+
 Marizza: https://www.facebook.com/groups/1343826033377099/user/100082598765895
+
 Alma: https://www.facebook.com/groups/1343826033377099/user/100076415984608
+
 Wawa: https://www.facebook.com/groups/1343826033377099/user/61557113701350
+
 Eddy: https://www.facebook.com/groups/1343826033377099/user/100030402526459
+
 Yolanda: https://www.facebook.com/groups/1343826033377099/user/1384561947
+
 Shinehah: https://www.facebook.com/groups/1343826033377099/user/1313677487
+
 Lorina: https://www.facebook.com/groups/1343826033377099/user/612122388
